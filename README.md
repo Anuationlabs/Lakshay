@@ -22,10 +22,7 @@ attention span in 2024 they need new, attractive, informative, and entertaining
 content in a few seconds.  
 Let’s dive into the latest advertising tools and trends in the digital marketing 
 industry. 
-Table of content 
-1. 
-2. 
-3. 
+Table of content  
 Introduction: What are digital marketing industry trends? 
 Top 7 emerging Digital Marketing Industry Trends. 
 Conclusion 
@@ -40,13 +37,6 @@ these trends can play a huge role in digital growth which is very important in
 2. Top 7 emerging Digital Marketing Industry Trends 
 Here are the top 7 trends breaking the records of previous trends and these trends 
 spreading across the globe 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
 Artificial intelligence (AI), Machine Learning trends 
 Video marketing trend 
 Personalization and Hyper-Targeting 
